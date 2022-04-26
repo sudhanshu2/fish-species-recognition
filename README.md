@@ -49,7 +49,16 @@ make -j4
 ## Dataset
 The dataset for this project used [fishfish](https://kaggle.com/tomeryacov/fishfish) dataset on Kaggle, the [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) and photos captured by the authors at the Georgia Aqaurium.
 
-
+## Citation
+```
+@inproceedings{agarwal2021nemo,
+  title={Is it Nemo or Dory? Fast and accurate object detection for IoT and edge devices},
+  author={Agarwal, Sudhanshu and Vuduc, Richard},
+  booktitle={11th International Conference on the Internet of Things},
+  pages={94--101},
+  year={2021}
+}
+```
 ---
 
 This project was developed at the HPC Garage research group at the Georgia Institute of Technology.
